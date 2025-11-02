@@ -1,5 +1,5 @@
 import React from 'react';
-import { Briefcase, Calendar, MapPin, ExternalLink } from 'lucide-react';
+import { Briefcase, Calendar, MapPin } from 'lucide-react';
 
 const Experience = ({ darkMode }) => {
   const experiences = [
